@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Irma</h1>
-<h3 align="center">I'm a data analyst with 4 years of experience in data quality analysis, monitoring, and remediation.</h3>
+# **Irma Andrea Rios**
+I'm a data analyst with 4 years of experience in data quality analysis, monitoring, and remediation. 
 
-- 🔭 I’m currently working on [Udacity's Data Engineering with AWS program](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
+## Currently working on
+- [**Udacity's Data Engineering with AWS program**](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 
-- 🌱 I’m currently learning **data engineering concepts like designing data models, building data warehouses and data lakes, automating data pipelines, and managing datasets.**
+## Most familiar 
+<span>
+  <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width=48 height=48>
+  <img src="https://api.iconify.design/logos:presto.svg" alt="presto" width=48 height=48>
+  <img src="https://api.iconify.design/logos:python.svg" alt="python" width=48 height=48>
+</span>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/irmaarios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irmaarios" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/irmaarios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="irmaarios" height="30" width="40" /></a>
-</p>
+## Have worked with
+<span>
+  <img src="https://api.iconify.design/logos:looker.svg" alt="looker" width=48 height=48>
+</span>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Connect with me
+<span>
+  <a href="https://www.linkedin.com/in/irmaarios/">
+    <img src="https://api.iconify.design/skill-icons:linkedin.svg" alt="linkedin" width=48 height=48>
+  </a>
+</span>
