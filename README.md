@@ -1,5 +1,5 @@
 # **Irma Andrea Rios**
-👋 Hello, I'm a data analyst with 4 years of experience in data quality analysis, monitoring, and remediation. 
+👋 Hello, I'm a data analyst with 4+ years of experience in data quality analysis, monitoring, and remediation. 
 
 I have a Bachelor of Science in Business Administration with a specialization in Computer Science from the Illinois Institute of Technology and internship experiences in product development and digital marketing.
 
