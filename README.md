@@ -4,7 +4,6 @@
 I have a Bachelor of Science in Business Administration with a specialization in Computer Science from the Illinois Institute of Technology and internship experiences in product development and digital marketing.
 
 ## Currently working on
-- [**Udacity's Data Engineering with AWS program**](https://www.udacity.com/course/data-engineer-nanodegree--nd027) -- exercises and projects [here](https://github.com/irmaarios/Udacity-Data-Engineering-with-AWS) 🙂
 
 ## Most familiar 
 - PosgreSQL
