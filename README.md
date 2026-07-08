@@ -3,7 +3,7 @@
 
 I enjoy building SQL and Python solutions that improve data integrity, automate data quality monitoring, and translate business requirements into scalable technical solutions. I'm passionate about building trusted data foundations that support better decision-making and enable AI-driven data processes.
 
-I have a Bachelor of Science in Business Administration with a specialization in Computer Science from the Illinois Institute of Technology and past experience in software development and digital marketing analytics.
+I have a Bachelor of Science in Business Administration with a specialization in Computer Science from the Illinois Institute of Technology and experience in software engineering and digital marketing analytics.
 
 #### Connect with me:
 <span>
